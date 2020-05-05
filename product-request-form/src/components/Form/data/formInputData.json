@@ -1,0 +1,281 @@
+{
+  "formFields": [
+    {
+      "label": "First Name",
+      "type": "text",
+      "name": "firstNameInput"
+    },
+    {
+      "label": "Last Name",
+      "type": "text",
+      "name": "lastNameInput"
+    },
+    {
+      "label": "Email",
+      "type": "email",
+      "name": "email"
+    },
+    {
+      "label": "Department",
+      "type": "dropdown",
+      "items": [
+        "BI",
+        "Compliance",
+        "Events",
+        "Finance",
+        "HR",
+        "IT",
+        "Legal",
+        "Marketing",
+        "Member Service",
+        "PMO",
+        "Sales",
+        "Supply Chain"
+      ],
+      "name": "deptDropdown"
+    },
+    {
+      "label": "Date",
+      "type": "date",
+      "name": "date"
+    },
+    {
+      "label": "Accelerate",
+      "subtitle": "25 Points",
+      "name": "accelerate",
+      "type": "number",
+      "price": 25
+    },
+    {
+      "label": "Accelerate with Thermolit",
+      "subtitle": "25 Points",
+      "name": "accelerateThermolit",
+      "type": "number",
+      "price": 25
+    },
+    {
+      "label": "Advanced Omega",
+      "subtitle": "30 Points",
+      "name": "advOmega",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Axion",
+      "subtitle": "40 Points",
+      "name": "axion",
+      "type": "number",
+      "price": 40
+    },
+    {
+      "label": "Cardio",
+      "subtitle": "40 Points",
+      "name": "cardio",
+      "type": "number",
+      "price": 40
+    },
+    {
+      "label": "Cheat+",
+      "subtitle": "35 Points",
+      "name": "cheat",
+      "type": "number",
+      "price": 35
+    },
+    {
+      "label": "Flex",
+      "subtitle": "20 Points",
+      "name": "flex",
+      "type": "number",
+      "price": 20
+    },
+    {
+      "label": "Flush",
+      "subtitle": "25 Points",
+      "name": "flush",
+      "type": "number",
+      "price": 25
+    },
+    {
+      "label": "Genesis Case - 4 bottles",
+      "subtitle": "120 Points",
+      "name": "genesisCase",
+      "type": "number",
+      "price": 120
+    },
+    {
+      "label": "Genesis Capsules",
+      "subtitle": "30 Points",
+      "name": "genesisCaps",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Global Blend",
+      "subtitle": "30 Points",
+      "name": "global",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Global Blend Case - 4 Bottles",
+      "subtitle": "120 Points",
+      "name": "globalCase",
+      "type": "number",
+      "price": 120
+    },
+    {
+      "label": "Global Blend Classic",
+      "subtitle": "30 Points",
+      "name": "globalClassic",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Global Blend Classic Case - 4 Bottles",
+      "subtitle": "120 Points",
+      "name": "globalClassicCase",
+      "type": "number",
+      "price": 120
+    },
+    {
+      "label": "Immune",
+      "subtitle": "35 Points",
+      "name": "immune",
+      "type": "number",
+      "price": 35
+    },
+    {
+      "label": "Lean",
+      "subtitle": "50 Points",
+      "name": "lean",
+      "type": "number",
+      "price": 50
+    },
+    {
+      "label": "Lean Chocolate",
+      "subtitle": "50 Points",
+      "name": "leanChocolate",
+      "type": "number",
+      "price": 50
+    },
+    {
+      "label": "Lean Meal",
+      "subtitle": "50 Points",
+      "name": "leanMeal",
+      "type": "number",
+      "price": 50
+    },
+    {
+      "label": "Osteo",
+      "subtitle": "25 Points",
+      "name": "osteo",
+      "type": "number",
+      "price": 25
+    },
+    {
+      "label": "Prime",
+      "subtitle": "70 Points",
+      "name": "prime",
+      "type": "number",
+      "price": 70
+    },
+    {
+      "label": "Probiotix",
+      "subtitle": "35 Points",
+      "name": "probiotix",
+      "type": "number",
+      "price": 35
+    },
+    {
+      "label": "Shaker Bottles - 2",
+      "subtitle": "30 Points",
+      "name": "shakerBottles",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Shine",
+      "subtitle": "70 Points",
+      "name": "shine",
+      "type": "number",
+      "price": 70
+    },
+    {
+      "label": "Spryng Tropical Fusion",
+      "subtitle": "40 Points",
+      "name": "spryngTropFus",
+      "type": "number",
+      "price": 40
+    },
+    {
+      "label": "Spryng Lemon Lime",
+      "subtitle": "40 Points",
+      "name": "spryngll",
+      "type": "number",
+      "price": 40
+    },
+    {
+      "label": "Trimstix",
+      "subtitle": "45 Points",
+      "name": "trimstix",
+      "type": "number",
+      "price": 45
+    },
+    {
+      "label": "Xypstix - 18 Serving",
+      "subtitle": "30 Points",
+      "name": "xypstix18",
+      "type": "number",
+      "price": 30
+    },
+    {
+      "label": "Xypstix - 30 Serving",
+      "subtitle": "40 Points",
+      "name": "xypstix30",
+      "type": "number",
+      "price": 40
+    },
+    {
+      "label": "Xyng",
+      "subtitle": "35 Points",
+      "name": "xyng",
+      "type": "number",
+      "price": 35
+    },
+    {
+      "label": "XR2",
+      "subtitle": "45 Points",
+      "name": "xr2",
+      "type": "number",
+      "price": 45
+    },
+    {
+      "label": "Ignite System - Global Blend",
+      "subtitle": "240 Points",
+      "name": "igniteSystem",
+      "type": "number",
+      "price": 240
+    },
+    {
+      "label": "Ignite System - Global Blend Classic",
+      "subtitle": "240 Points",
+      "name": "igniteSystemClassic",
+      "type": "number",
+      "price": 240
+    },
+    {
+      "label": "Ultimate System - Global Blend",
+      "subtitle": "400 Points",
+      "name": "ultimateSystem",
+      "type": "number",
+      "price": 400
+    },
+    {
+      "label": "Ultimate System - Global Blend Classic",
+      "subtitle": "400 Points",
+      "name": "ultimateSystemClassic",
+      "type": "number",
+      "price": 400
+    }
+  ]
+}
